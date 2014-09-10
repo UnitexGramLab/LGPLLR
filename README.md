@@ -1,7 +1,7 @@
 LGPL-LR
 ======
 
-**LGPL-LR** (*Lesser General Public License For Linguistic Resources*), is an open source license ideal for NLP-related resources.
+**LGPL-LR** (*Lesser General Public License for Linguistic Resources*), is an open source license ideal for NLP-related resources.
 
 Links
 -----

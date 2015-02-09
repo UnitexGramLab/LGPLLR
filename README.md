@@ -6,6 +6,6 @@ LGPL-LR
 Links
 -----
 
-- [LGPL-LR](http://raw.githubusercontent.com/UnitexGramLab/LGPL-LR/master/LGPL-LR) (http://git.io/baaH)
+- [LGPL-LR](http://git.io/lgpllr) (http://git.io/lgpllr)
 - [LGPL-LR in a nutshell](http://2009.rmll.info/IMG/pdf/RMLL2009-Sciences-Sebastien_Paumier-LGPLLR.pdf)
 

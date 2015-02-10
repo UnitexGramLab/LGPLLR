@@ -8,7 +8,7 @@ LGPL-LR
 Links
 -----
 
-- [LGPL-LR](https://raw.githubusercontent.com/UnitexGramLab/LGPL-LR/master/LGPL-LR) (http://bit.do/LGPL-LR)
 - [LGPL-LR in a nutshell](http://2009.rmll.info/IMG/pdf/RMLL2009-Sciences-Sebastien_Paumier-LGPLLR.pdf)
+- [LGPL-LR](https://raw.githubusercontent.com/UnitexGramLab/LGPL-LR/master/LGPL-LR) (http://bit.do/LGPL-LR)
 - [Open Licenses Service LGPL-LR JSON definition](https://raw.githubusercontent.com/UnitexGramLab/LGPL-LR/master/LGPL-LR.json)
 - [Access statistics for http://bit.do/LGPL-LR](http://bit.do/LGPL-LR-)

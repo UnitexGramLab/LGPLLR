@@ -9,6 +9,5 @@ Links
 ----- 
 
 - [LGPLLR in a nutshell](http://2009.rmll.info/IMG/pdf/RMLL2009-Sciences-Sebastien_Paumier-LGPLLR.pdf)
-- [LGPLLR direct link](https://raw.githubusercontent.com/UnitexGramLab/LGPLLR/master/LGPLLR) (http://bit.do/LGPLLR)
+- [LGPLLR direct link](https://raw.githubusercontent.com/UnitexGramLab/LGPLLR/master/LGPLLR) (https://raw.githubusercontent.com/UnitexGramLab/LGPLLR/master/LGPLLR)
 - [Open Licenses Service LGPLLR JSON definition](https://raw.githubusercontent.com/UnitexGramLab/LGPLLR/master/LGPLLR.json)
-- [Access statistics for http://bit.do/LGPLLR](http://bit.do/LGPLLR-)

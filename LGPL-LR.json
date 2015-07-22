@@ -1,13 +1,1 @@
-{
-  "domain_content": false, 
-  "domain_data": true, 
-  "domain_software": false, 
-  "family": "", 
-  "id": "LGPL-LR", 
-  "od_conformance": "not reviewed", 
-  "osd_conformance": "not reviewed", 
-  "maintainer": "University Paris-Est Marne-la-Vallée", 
-  "status": "active", 
-  "title": "Lesser General Public License for Linguistic Resources", 
-  "url": "https://github.com/UnitexGramLab/LGPL-LR"
-}
+LGPLLR.json
